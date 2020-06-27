@@ -1,0 +1,38 @@
+.text {
+  text-align: center;
+  font-size: 32px;
+  padding: 30px;
+  border-bottom: 2px solid black;
+}
+
+.envelopes {
+  margin: 30px;
+  text-align: center;
+}
+
+.envelopes li {
+  width: 300px;
+  display: inline;
+  margin: 0 50px 0 50px;
+}
+
+.envelopes ul {
+  list-style: none;
+}
+
+li p {
+  padding: 0 10% 0 10%;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.state {
+  padding: 30px;
+  text-align: center;
+  font-size: 32px;
+  border-top: 2px solid black;
+}
+
+img:hover {
+  cursor: pointer;
+}
